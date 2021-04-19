@@ -6,9 +6,8 @@
 - - 📫 How to reach me: ...
 - - 😄 Pronouns: ...
 - - ⚡ Fun fact: ...
+- - Here are some ideas to get you started:
 -->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website!
 - 🌱 I’m currently learning many things simultaneously...!!
