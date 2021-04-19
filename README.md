@@ -42,7 +42,7 @@
 
 <br />
 <br />
-<h3 align="center"> Language & Skills </h3>
+<h3 align="left"> Language & Skills </h3>
 
 - Python
 - C
