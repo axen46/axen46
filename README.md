@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="axen46 | Twitter" width="22px" src="https://twitter.com/ApratimSarkar5" />][twitter]
+[<img align="left" alt="axen46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="axen46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <p>
@@ -30,3 +30,7 @@
 </a>
 
 </p>
+
+
+[twitter]: https://twitter.com/ApratimSarkar5
+[linkedin]: https://www.linkedin.com/in/apratim-sarkar-837897135/
