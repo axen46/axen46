@@ -1,4 +1,4 @@
-### Hi there, I'm Apratim 👋
+### Hi there, I'm Apratim, CSE student at GCETTB 👋
 ## I'm a developer, data science enthusiast and a teacher!
 <!--
 **axen46/axen46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
