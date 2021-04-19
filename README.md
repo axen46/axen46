@@ -42,7 +42,13 @@
 
 <br />
 <br />
+<h3 align="center"> Language & Skills </h3>
 
+- Python
+- C
+- Java
+- Machine Learning
+- Mathematical Statistics 
 
 <p>
 
