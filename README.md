@@ -42,7 +42,7 @@
 </a>
 
 <a herf="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axen46&layout=compact&langs_count=10" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axen46&layout=compact&langs_count=10&theme=merko" />
 </a>
 
 </p>
