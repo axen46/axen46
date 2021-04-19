@@ -14,6 +14,11 @@
 - 👯 I’m looking to collaborate with other data scientists
 - 💬 Ask me about Statistics!
 
+### Connect with me:
+
+[<img align="left" alt="axen46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="axen46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <p>
 
 <a herf="https://github.com/anuraghazra/github-readme-stats">
