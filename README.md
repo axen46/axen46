@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning many things simultaneously...!!
 - 👯 I’m looking to collaborate with other data scientists
 - 💬 Ask me about Statistics!
+- 📫 How to reach me: apratimsarkar13031999@gmail.com
 
 ### Connect with me:
 
