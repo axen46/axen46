@@ -56,4 +56,5 @@
 
 
 [twitter]: https://twitter.com/ApratimSarkar5
+[linkedln]:https://www.linkedin.com/in/apratim-sarkar-837897135
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
