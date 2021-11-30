@@ -17,8 +17,8 @@
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/apratim-sarkar-837897135?"></a><img src="https://img.shields.io/badge/-Apratim Sarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apratim-sarkar-837897135?"/> &nbsp;&nbsp;<a href="mailto:apratimsarkar13031999@gmail.com"></a><img src="https://img.shields.io/badge/-apratimsarkar13031999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apratimsarkar13031999@gmail.com"/>
 [<img align="left" alt="axen46 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="axen46 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -36,10 +36,16 @@
 - Mathematical Statistics 
 
 <p>
+  
+### Projects 👨‍💻
+[Primes](https://github.com/axen46/Primes) &nbsp;&nbsp;||&nbsp;&nbsp;[Miracurol 2.0](https://soumyajitnandi.000webhostapp.com/) &nbsp;&nbsp;||&nbsp;&nbsp; [ML](https://github.com/axen46/Price_Pred) &nbsp;&nbsp;|| &nbsp;&nbsp;[Kode - Devs](https://github.com/Kode-Devs/package-libmath)
+
+<hr>
+
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=axen46&count_private=true&show_icons=true&theme=merko" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=axen46&layout=compact&langs_count=10&theme=merko"/>|
+|---|---|
 
 <a herf="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=axen46&count_private=true&show_icons=true&theme=merko" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axen46"/>
 </a>
 
 <a herf="https://github.com/anuraghazra/github-readme-stats">
@@ -50,5 +56,4 @@
 
 
 [twitter]: https://twitter.com/ApratimSarkar5
-[linkedin]: https://www.linkedin.com/in/apratim-sarkar-837897135/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
