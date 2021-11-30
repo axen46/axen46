@@ -39,6 +39,7 @@
 
 <a herf="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=axen46&count_private=true&show_icons=true&theme=merko" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=axen46"/>
 </a>
 
 <a herf="https://github.com/anuraghazra/github-readme-stats">
