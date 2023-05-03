@@ -1,5 +1,5 @@
-### Hi there, I'm Apratim, CSE student at GCETTB 👋
-## I'm a developer, data science enthusiast and a teacher!
+### Hi there, I'm Apratim, Systems Engineer@Infosys 👋
+## I'm a developer, data science enthusiast!
 <!--
 **axen46/axen46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
@@ -34,6 +34,8 @@
 - Java
 - Machine Learning
 - Mathematical Statistics 
+- Spring Boot
+- React
 
 <p>
   
